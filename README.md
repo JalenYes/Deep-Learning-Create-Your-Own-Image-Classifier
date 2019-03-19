@@ -9,6 +9,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Pytorch](https://pytorch.org/)
+- [Keras](https://keras.io/)
 
 
 ## Licence
