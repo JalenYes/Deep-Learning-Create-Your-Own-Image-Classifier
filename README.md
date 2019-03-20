@@ -5,8 +5,8 @@ This project requires **Python 3.x** and the following Python libraries installe
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [matplotlib](http://matplotlib.org/)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Pytorch](https://pytorch.org/)
 - [Keras](https://keras.io/)
