@@ -7,7 +7,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [matplotlib](http://matplotlib.org/)
-- [Tensorflow](https://www.tensorflow.org/)
+- [Tensorflow]( https://www.tensorflow.org/)
 - [Pytorch](https://pytorch.org/)
 - [Keras](https://keras.io/)
 
